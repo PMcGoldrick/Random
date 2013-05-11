@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/paul/devel/cms_dev/src/mediaserver/mediaserver'
+let g:netrw_dirhist_2='/Users/paul/devel/cms_dev/src/mediaserver'
+let g:netrw_dirhist_3='/Users/paul/devel/cms_dev/src/storyville/medley/sports_stats/migrations'
+let g:netrw_dirhist_4='/Users/paul'
